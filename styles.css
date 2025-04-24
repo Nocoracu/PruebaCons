@@ -18,7 +18,7 @@ header {
 /* Navegación */
 nav ul {
     list-style: none;
-    padding: 0px;
+    padding: 0;
     background-color: #444;
     overflow: hidden;
 }
